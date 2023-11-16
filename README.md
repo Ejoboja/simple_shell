@@ -1,4 +1,5 @@
 Simple Shell Project
+Team project with Ejoboja as first partner and Linda as the second partner.
 This is a simple UNIX command line interpreter, part of a project with various stages of development.
 
 Task Overview:
